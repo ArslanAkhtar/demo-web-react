@@ -1,0 +1,13 @@
+{
+  "name": "demo-web",
+  "version": "1.0.0",
+  "description": "tesing web",
+  "main": "index.js",
+  "repository": "git@github.com:ArslanAkhtar/demo-web-react.git",
+  "author": "Arslan Akhtar",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "lerna": "^3.22.1"
+  }
+}
